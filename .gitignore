@@ -1,3 +1,4 @@
 
 .DS_Store
 models/utils/__pycache__/activation_functions.cpython-311.pyc
+models/utils/__pycache__/loss_functions.cpython-311.pyc
